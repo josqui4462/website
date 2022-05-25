@@ -1,1 +1,49 @@
+body {
+  line-height: 1px;
+  color: #ff5959;
+  background-color: #ffd4e3;
+  font-family: "Roboto Slab";
+}
 
+p {
+  font-size:24px; 
+  line-height: 1px;
+  margin-left: 10px;
+}
+
+h1 {
+  font-weight: bold;
+  color: #ff5959;
+  text-align: center;
+  line-height: 4px;
+}
+
+h2 {
+  font-weight: bold;
+  color: #ff5959;
+  line-height: 4px;
+  margin-left: 10px;
+}
+
+a {
+   text-decoration: none;
+}
+
+ul {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+div {
+  margin-left: 10px; 
+  margin-right: 10px;
+  margin-top: 10px;   
+  margin-bottom: 10px;
+  border-radius: 8px;
+  border-style: solid;
+  border-color; #ff5959;
+}
+
+img {
+  margin-left: 10px;
+}
